@@ -142,13 +142,17 @@ post {{BaseUrl}}/api/v1//lineoa/service/user/:id/request
             {
                 details:"",
                 date:"",
-                slot:"",
+                hourStart:"",
+                hourEnd:"",
+                limit:1
                 images:[]
             },
             {
                 details:"",
                 date:"",
-                slot:"",
+               hourStart:"",
+                hourEnd:"",
+                limit:1
                 images:[]
             }
         ]
